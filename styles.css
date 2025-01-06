@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(222, 156, 91);
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: peachpuff;
+    height: 500px;
+    width: 500px;
+    margin: 100px auto auto auto;
+}
+input{
+    margin: 20px;
+}
+button{
+    height: auto;
+    width: auto;
+    margin: 20px;
+}
